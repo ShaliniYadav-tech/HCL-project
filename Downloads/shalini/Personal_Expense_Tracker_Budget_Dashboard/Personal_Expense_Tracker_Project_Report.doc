@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Personal Expense Tracker and Budget Dashboard</title>
+</head>
+<body style="font-family:Calibri,Arial,sans-serif; margin:40px;">
+<h1 align="center">PERSONAL EXPENSE TRACKER AND BUDGET DASHBOARD</h1>
+<h2 align="center">II Year Data Analyst Project Report</h2>
+<p align="center"><b>Project Number:</b> Project 9<br>
+<b>Student Name:</b> ____________________________<br>
+<b>Roll Number:</b> ____________________________<br>
+<b>Submission Date:</b> 27 November 2026</p>
+<h2>1. Project Overview</h2>
+<p>The Personal Expense Tracker and Budget Dashboard converts raw expense transactions into a clean dataset and presents monthly spending, category spending, and budget performance through an interactive dashboard.</p>
+<h2>2. Objectives</h2>
+<ul><li>Generate a reproducible expense dataset</li><li>Clean and quarantine invalid records</li><li>Calculate monthly and category KPIs</li><li>Identify budget breaches</li><li>Create charts and an interactive dashboard</li></ul>
+<h2>3. Tools and Technologies</h2>
+<p>Python, Pandas, Matplotlib, Streamlit, Altair, SQL, and Power BI DAX.</p>
+<h2>4. Key Analysis and Results</h2>
+<table border="1" cellpadding="8" cellspacing="0">
+<tr><th>Indicator</th><th>Result</th></tr>
+<tr><td>Total expenses</td><td>Rs. 14,01,867.73</td></tr>
+<tr><td>Average monthly expense</td><td>Rs. 58,411.16</td></tr>
+<tr><td>Highest spending category</td><td>Travel</td></tr>
+<tr><td>Highest category amount</td><td>Rs. 4,44,970.18</td></tr>
+<tr><td>Budget breach count</td><td>75</td></tr>
+<tr><td>Total amount over budget</td><td>Rs. 3,61,252.90</td></tr>
+<tr><td>Transaction count</td><td>626</td></tr>
+</table>
+<h2>5. Data Cleaning</h2>
+<p>The process generated 631 raw records, removed 6 duplicate rows, quarantined 2 invalid rows, and retained 626 cleaned transactions.</p>
+<h2>6. Dashboard Features</h2>
+<ul><li>Year and category filters</li><li>Expense and average monthly expense KPIs</li><li>Highest category and budget breach KPIs</li><li>Monthly expense trend</li><li>Expense by category</li><li>Budget breach details</li></ul>
+<h2>7. How to Run</h2>
+<pre>pip install pandas matplotlib streamlit altair
+python generate_expenses.py
+python clean_expenses.py
+python analysis_kpis_charts.py
+streamlit run app/streamlit_app.py</pre>
+<h2>8. Conclusion</h2>
+<p>The project demonstrates a complete data analytics workflow from data generation and cleaning to KPI calculation, visualization, SQL support, and an interactive dashboard.</p>
+<h2>9. GitHub Repository</h2>
+<p>https://github.com/ShaliniYadav-tech/HCL-project.git</p>
+</body>
+</html>
