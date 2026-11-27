@@ -1,0 +1,627 @@
+transaction_id,date,category,description,amount,transaction_type,payment_method,month
+E00001,2025-01-15,Housing,Housing expense,10000.0,Expense,Debit Card,2025-01
+E00002,2025-01-06,Food,Food expense,799.92,Expense,UPI,2025-01
+E00003,2025-01-11,Food,Food expense,527.09,Expense,Bank Transfer,2025-01
+E00004,2025-01-03,Food,Food expense,400.52,Expense,Bank Transfer,2025-01
+E00005,2025-01-24,Transport,Transport expense,516.92,Expense,Cash,2025-01
+E00006,2025-01-24,Transport,Transport expense,564.85,Expense,Credit Card,2025-01
+E00007,2025-01-08,Utilities,Utilities expense,843.74,Expense,Credit Card,2025-01
+E00008,2025-01-25,Health,Health expense,1783.41,Expense,UPI,2025-01
+E00009,2025-01-10,Health,Health expense,671.41,Expense,Credit Card,2025-01
+E00010,2025-01-03,Shopping,Shopping expense,3544.84,Expense,Credit Card,2025-01
+E00011,2025-01-13,Shopping,Shopping expense,1480.97,Expense,UPI,2025-01
+E00012,2025-01-07,Shopping,Shopping expense,3276.96,Expense,UPI,2025-01
+E00013,2025-01-14,Shopping,Shopping expense,530.12,Expense,Cash,2025-01
+E00014,2025-01-28,Shopping,Shopping expense,2365.19,Expense,UPI,2025-01
+E00015,2025-01-14,Entertainment,Entertainment expense,1377.97,Expense,UPI,2025-01
+E00016,2025-01-20,Entertainment,Entertainment expense,206.2,Expense,Bank Transfer,2025-01
+E00017,2025-01-07,Entertainment,Entertainment expense,1632.49,Expense,Credit Card,2025-01
+E00018,2025-01-01,Education,Education expense,2709.68,Expense,Credit Card,2025-01
+E00019,2025-01-18,Education,Education expense,2777.68,Expense,Bank Transfer,2025-01
+E00020,2025-01-03,Education,Education expense,1847.04,Expense,Bank Transfer,2025-01
+E00021,2025-01-07,Education,Education expense,1434.29,Expense,Cash,2025-01
+E00022,2025-01-21,Travel,Travel expense,7236.73,Expense,Bank Transfer,2025-01
+E00023,2025-01-05,Travel,Travel expense,2794.16,Expense,Bank Transfer,2025-01
+E00024,2025-01-24,Travel,Travel expense,8687.44,Expense,UPI,2025-01
+E00025,2025-01-09,Savings,Savings expense,3220.24,Expense,Bank Transfer,2025-01
+E00026,2025-02-28,Housing,Housing expense,10000.0,Expense,Debit Card,2025-02
+E00027,2025-02-04,Food,Food expense,801.5,Expense,Cash,2025-02
+E00028,2025-02-08,Food,Food expense,271.3,Expense,Bank Transfer,2025-02
+E00029,2025-02-24,Transport,Transport expense,502.54,Expense,Bank Transfer,2025-02
+E00030,2025-02-19,Transport,Transport expense,721.75,Expense,UPI,2025-02
+E00031,2025-02-28,Utilities,Utilities expense,1672.15,Expense,Bank Transfer,2025-02
+E00032,2025-02-15,Health,Health expense,683.07,Expense,Credit Card,2025-02
+E00033,2025-02-19,Health,Health expense,1915.11,Expense,Cash,2025-02
+E00034,2025-02-26,Health,Health expense,1597.82,Expense,UPI,2025-02
+E00035,2025-02-14,Health,Health expense,456.93,Expense,Credit Card,2025-02
+E00036,2025-02-09,Shopping,Shopping expense,1663.78,Expense,UPI,2025-02
+E00037,2025-02-10,Shopping,Shopping expense,2943.94,Expense,UPI,2025-02
+E00038,2025-02-17,Shopping,Shopping expense,3593.21,Expense,UPI,2025-02
+E00039,2025-02-13,Shopping,Shopping expense,3579.03,Expense,Cash,2025-02
+E00040,2025-02-16,Shopping,Shopping expense,1753.53,Expense,Credit Card,2025-02
+E00041,2025-02-14,Entertainment,Entertainment expense,1236.56,Expense,UPI,2025-02
+E00042,2025-02-25,Entertainment,Entertainment expense,841.45,Expense,Debit Card,2025-02
+E00043,2025-02-05,Other,Education expense,2102.26,Expense,Credit Card,2025-02
+E00044,2025-02-23,Education,Education expense,2576.84,Expense,Debit Card,2025-02
+E00045,2025-02-01,Education,Education expense,436.36,Expense,Credit Card,2025-02
+E00046,2025-02-09,Education,Education expense,2855.6,Expense,UPI,2025-02
+E00047,2025-02-01,Travel,Travel expense,1866.2,Expense,Cash,2025-02
+E00048,2025-02-07,Travel,Travel expense,7399.34,Expense,Debit Card,2025-02
+E00049,2025-02-20,Travel,Travel expense,1610.95,Expense,Debit Card,2025-02
+E00050,2025-02-10,Savings,Savings expense,1562.58,Expense,Bank Transfer,2025-02
+E00051,2025-03-09,Housing,Housing expense,10000.0,Expense,UPI,2025-03
+E00052,2025-03-23,Food,Food expense,238.45,Expense,Cash,2025-03
+E00053,2025-03-15,Food,Food expense,256.89,Expense,Bank Transfer,2025-03
+E00054,2025-03-25,Food,Food expense,746.17,Expense,Bank Transfer,2025-03
+E00055,2025-03-26,Food,Food expense,276.81,Expense,Debit Card,2025-03
+E00056,2025-03-12,Transport,Transport expense,209.15,Expense,UPI,2025-03
+E00057,2025-03-09,Transport,Transport expense,681.72,Expense,Credit Card,2025-03
+E00058,2025-03-26,Transport,Transport expense,792.65,Expense,UPI,2025-03
+E00059,2025-03-06,Transport,Transport expense,958.16,Expense,Credit Card,2025-03
+E00060,2025-03-28,Transport,Transport expense,114.32,Expense,Credit Card,2025-03
+E00061,2025-03-16,Utilities,Utilities expense,1978.75,Expense,Bank Transfer,2025-03
+E00062,2025-03-03,Health,Health expense,598.01,Expense,Cash,2025-03
+E00063,2025-03-19,Health,Health expense,2376.81,Expense,Bank Transfer,2025-03
+E00064,2025-03-03,Health,Health expense,2364.96,Expense,UPI,2025-03
+E00065,2025-03-19,Health,Health expense,2484.25,Expense,Cash,2025-03
+E00066,2025-03-18,Health,Health expense,910.15,Expense,Bank Transfer,2025-03
+E00067,2025-03-21,Shopping,Shopping expense,2710.28,Expense,Debit Card,2025-03
+E00068,2025-03-03,Shopping,Shopping expense,3344.69,Expense,Credit Card,2025-03
+E00069,2025-03-04,Entertainment,Entertainment expense,1319.23,Expense,Cash,2025-03
+E00070,2025-03-02,Entertainment,Entertainment expense,984.35,Expense,UPI,2025-03
+E00071,2025-03-12,Education,Education expense,957.83,Expense,Cash,2025-03
+E00072,2025-03-08,Education,Education expense,1302.32,Expense,Bank Transfer,2025-03
+E00073,2025-03-08,Travel,Travel expense,1769.99,Expense,Bank Transfer,2025-03
+E00074,2025-03-03,Travel,Travel expense,6099.55,Expense,Cash,2025-03
+E00075,2025-03-14,Travel,Travel expense,5914.17,Expense,UPI,2025-03
+E00076,2025-03-07,Travel,Travel expense,1755.83,Expense,Credit Card,2025-03
+E00077,2025-03-03,Travel,Travel expense,1986.57,Expense,Debit Card,2025-03
+E00078,2025-03-20,Savings,Savings expense,2880.97,Expense,Bank Transfer,2025-03
+E00079,2025-04-16,Housing,Housing expense,10000.0,Expense,UPI,2025-04
+E00080,2025-04-03,Food,Food expense,737.12,Expense,UPI,2025-04
+E00081,2025-04-15,Food,Food expense,865.53,Expense,Bank Transfer,2025-04
+E00082,2025-04-05,Food,Food expense,882.27,Expense,Cash,2025-04
+E00083,2025-04-27,Food,Food expense,253.43,Expense,Debit Card,2025-04
+E00084,2025-04-15,Transport,Transport expense,957.98,Expense,Credit Card,2025-04
+E00085,2025-04-08,Transport,Transport expense,219.65,Expense,UPI,2025-04
+E00086,2025-04-04,Transport,Transport expense,182.1,Expense,UPI,2025-04
+E00087,2025-04-12,Utilities,Utilities expense,990.14,Expense,UPI,2025-04
+E00088,2025-04-21,Health,Health expense,1400.63,Expense,Debit Card,2025-04
+E00089,2025-04-28,Health,Health expense,1659.84,Expense,Credit Card,2025-04
+E00090,2025-04-01,Health,Health expense,789.64,Expense,Bank Transfer,2025-04
+E00091,2025-04-22,Health,Health expense,653.92,Expense,Cash,2025-04
+E00093,2025-04-17,Shopping,Shopping expense,3659.88,Expense,UPI,2025-04
+E00094,2025-04-09,Shopping,Shopping expense,2297.43,Expense,Debit Card,2025-04
+E00095,2025-04-21,Entertainment,Entertainment expense,293.77,Expense,Debit Card,2025-04
+E00096,2025-04-05,Entertainment,Entertainment expense,680.24,Expense,Credit Card,2025-04
+E00097,2025-04-12,Entertainment,Entertainment expense,1458.06,Expense,Cash,2025-04
+E00098,2025-04-10,Education,Education expense,2912.35,Expense,UPI,2025-04
+E00099,2025-04-01,Education,Education expense,1157.73,Expense,Credit Card,2025-04
+E00100,2025-04-20,Travel,Travel expense,3913.12,Expense,Bank Transfer,2025-04
+E00101,2025-04-12,Travel,Travel expense,8106.2,Expense,Cash,2025-04
+E00102,2025-04-14,Travel,Travel expense,3066.99,Expense,Debit Card,2025-04
+E00103,2025-04-10,Travel,Travel expense,4963.12,Expense,Bank Transfer,2025-04
+E00104,2025-04-19,Travel,Travel expense,4919.32,Expense,Cash,2025-04
+E00105,2025-04-06,Savings,Savings expense,2317.9,Expense,UPI,2025-04
+E00106,2025-05-11,Housing,Housing expense,10000.0,Expense,Debit Card,2025-05
+E00107,2025-05-07,Food,Food expense,308.32,Expense,Debit Card,2025-05
+E00108,2025-05-22,Food,Food expense,822.48,Expense,UPI,2025-05
+E00109,2025-05-15,Transport,Transport expense,1158.55,Expense,Bank Transfer,2025-05
+E00110,2025-05-25,Transport,Transport expense,1134.59,Expense,Cash,2025-05
+E00111,2025-05-07,Transport,Transport expense,866.71,Expense,Debit Card,2025-05
+E00112,2025-05-03,Transport,Transport expense,121.03,Expense,Bank Transfer,2025-05
+E00113,2025-05-14,Utilities,Utilities expense,2017.67,Expense,Debit Card,2025-05
+E00114,2025-05-15,Health,Health expense,1848.91,Expense,Debit Card,2025-05
+E00115,2025-05-18,Health,Health expense,671.77,Expense,Credit Card,2025-05
+E00116,2025-05-11,Shopping,Shopping expense,476.48,Expense,Credit Card,2025-05
+E00117,2025-05-11,Shopping,Shopping expense,985.85,Expense,UPI,2025-05
+E00118,2025-05-21,Entertainment,Entertainment expense,1543.61,Expense,Cash,2025-05
+E00119,2025-05-19,Entertainment,Entertainment expense,1009.93,Expense,Credit Card,2025-05
+E00120,2025-05-17,Entertainment,Entertainment expense,1304.34,Expense,Debit Card,2025-05
+E00122,2025-05-19,Entertainment,Entertainment expense,491.89,Expense,Bank Transfer,2025-05
+E00123,2025-05-19,Education,Education expense,763.17,Expense,Debit Card,2025-05
+E00124,2025-05-22,Education,Education expense,2696.34,Expense,Debit Card,2025-05
+E00125,2025-05-16,Education,Education expense,1710.87,Expense,Cash,2025-05
+E00126,2025-05-09,Travel,Travel expense,3637.13,Expense,Bank Transfer,2025-05
+E00127,2025-05-15,Travel,Travel expense,5091.07,Expense,Credit Card,2025-05
+E00128,2025-05-06,Savings,Savings expense,2324.2,Expense,Debit Card,2025-05
+E00129,2025-06-24,Housing,Housing expense,10000.0,Expense,Bank Transfer,2025-06
+E00130,2025-06-12,Food,Food expense,169.67,Expense,Credit Card,2025-06
+E00131,2025-06-18,Food,Food expense,733.91,Expense,UPI,2025-06
+E00132,2025-06-15,Food,Food expense,250.91,Expense,Credit Card,2025-06
+E00133,2025-06-24,Food,Food expense,557.35,Expense,Cash,2025-06
+E00134,2025-06-17,Transport,Transport expense,323.1,Expense,Bank Transfer,2025-06
+E00135,2025-06-14,Transport,Transport expense,111.02,Expense,Bank Transfer,2025-06
+E00136,2025-06-02,Transport,Transport expense,1129.78,Expense,Debit Card,2025-06
+E00137,2025-06-16,Utilities,Utilities expense,1741.8,Expense,Debit Card,2025-06
+E00138,2025-06-15,Health,Health expense,1205.97,Expense,Credit Card,2025-06
+E00139,2025-06-18,Health,Health expense,427.13,Expense,Credit Card,2025-06
+E00140,2025-06-19,Health,Health expense,395.24,Expense,Debit Card,2025-06
+E00141,2025-06-09,Health,Health expense,2243.6,Expense,Cash,2025-06
+E00142,2025-06-17,Health,Health expense,628.57,Expense,Bank Transfer,2025-06
+E00143,2025-06-22,Shopping,Shopping expense,2567.25,Expense,Credit Card,2025-06
+E00144,2025-06-06,Shopping,Shopping expense,418.02,Expense,Bank Transfer,2025-06
+E00145,2025-06-22,Entertainment,Entertainment expense,1531.7,Expense,Debit Card,2025-06
+E00146,2025-06-23,Entertainment,Entertainment expense,407.63,Expense,Debit Card,2025-06
+E00147,2025-06-13,Entertainment,Entertainment expense,257.7,Expense,Cash,2025-06
+E00148,2025-06-15,Education,Education expense,1553.61,Expense,UPI,2025-06
+E00149,2025-06-11,Education,Education expense,767.3,Expense,Credit Card,2025-06
+E00150,2025-06-19,Education,Education expense,2219.64,Expense,Bank Transfer,2025-06
+E00151,2025-06-28,Travel,Travel expense,7176.45,Expense,Bank Transfer,2025-06
+E00152,2025-06-05,Travel,Travel expense,7733.53,Expense,UPI,2025-06
+E00153,2025-06-13,Travel,Travel expense,2551.19,Expense,Cash,2025-06
+E00154,2025-06-16,Travel,Travel expense,7112.17,Expense,Bank Transfer,2025-06
+E00155,2025-06-04,Travel,Travel expense,5342.63,Expense,Cash,2025-06
+E00156,2025-06-17,Savings,Savings expense,2044.0,Expense,Debit Card,2025-06
+E00157,2025-07-20,Housing,Housing expense,10000.0,Expense,Debit Card,2025-07
+E00158,2025-07-07,Food,Food expense,703.75,Expense,Bank Transfer,2025-07
+E00159,2025-07-15,Food,Food expense,383.61,Expense,UPI,2025-07
+E00160,2025-07-28,Transport,Transport expense,116.6,Expense,Cash,2025-07
+E00161,2025-07-24,Transport,Transport expense,235.69,Expense,Debit Card,2025-07
+E00162,2025-07-10,Transport,Transport expense,348.05,Expense,Credit Card,2025-07
+E00163,2025-07-22,Utilities,Utilities expense,2481.39,Expense,Debit Card,2025-07
+E00164,2025-07-21,Health,Health expense,1000.91,Expense,Bank Transfer,2025-07
+E00165,2025-07-06,Health,Health expense,1471.64,Expense,UPI,2025-07
+E00166,2025-07-05,Health,Health expense,1906.19,Expense,Credit Card,2025-07
+E00167,2025-07-03,Health,Health expense,307.86,Expense,UPI,2025-07
+E00168,2025-07-27,Shopping,Shopping expense,4008.49,Expense,Cash,2025-07
+E00169,2025-07-12,Shopping,Shopping expense,1782.61,Expense,UPI,2025-07
+E00170,2025-07-04,Shopping,Shopping expense,3264.44,Expense,Cash,2025-07
+E00171,2025-07-06,Shopping,Shopping expense,548.32,Expense,Bank Transfer,2025-07
+E00172,2025-07-17,Entertainment,Entertainment expense,1116.86,Expense,Cash,2025-07
+E00173,2025-07-12,Entertainment,Entertainment expense,1324.22,Expense,Credit Card,2025-07
+E00174,2025-07-21,Entertainment,Entertainment expense,758.04,Expense,Bank Transfer,2025-07
+E00175,2025-07-02,Education,Education expense,735.23,Expense,Bank Transfer,2025-07
+E00176,2025-07-11,Education,Education expense,1047.26,Expense,Debit Card,2025-07
+E00177,2025-07-10,Education,Education expense,1477.68,Expense,Bank Transfer,2025-07
+E00178,2025-07-14,Education,Education expense,2318.88,Expense,UPI,2025-07
+E00179,2025-07-02,Education,Education expense,2677.08,Expense,Credit Card,2025-07
+E00180,2025-07-09,Travel,Travel expense,4236.81,Expense,Debit Card,2025-07
+E00181,2025-07-03,Travel,Travel expense,8952.11,Expense,Cash,2025-07
+E00182,2025-07-17,Travel,Travel expense,8650.25,Expense,Credit Card,2025-07
+E00183,2025-07-03,Travel,Travel expense,6360.44,Expense,Debit Card,2025-07
+E00184,2025-07-14,Travel,Travel expense,5208.76,Expense,Debit Card,2025-07
+E00185,2025-07-14,Savings,Savings expense,1315.21,Expense,Debit Card,2025-07
+E00186,2025-08-07,Housing,Housing expense,10000.0,Expense,Cash,2025-08
+E00187,2025-08-20,Food,Food expense,172.25,Expense,Debit Card,2025-08
+E00188,2025-08-23,Food,Food expense,155.93,Expense,UPI,2025-08
+E00189,2025-08-19,Food,Food expense,582.89,Expense,Credit Card,2025-08
+E00190,2025-08-20,Transport,Transport expense,212.28,Expense,Bank Transfer,2025-08
+E00191,2025-08-09,Transport,Transport expense,859.95,Expense,Credit Card,2025-08
+E00192,2025-08-03,Transport,Transport expense,679.51,Expense,Debit Card,2025-08
+E00193,2025-08-05,Transport,Transport expense,1046.0,Expense,Cash,2025-08
+E00194,2025-08-06,Transport,Transport expense,317.91,Expense,Cash,2025-08
+E00195,2025-08-10,Utilities,Utilities expense,2529.22,Expense,Cash,2025-08
+E00196,2025-08-22,Health,Health expense,1364.54,Expense,Cash,2025-08
+E00197,2025-08-02,Health,Health expense,1557.82,Expense,Cash,2025-08
+E00198,2025-08-27,Health,Health expense,404.27,Expense,Cash,2025-08
+E00199,2025-08-25,Health,Health expense,1989.4,Expense,Debit Card,2025-08
+E00200,2025-08-26,Shopping,Shopping expense,2307.87,Expense,Bank Transfer,2025-08
+E00201,2025-08-18,Shopping,Shopping expense,2860.65,Expense,Cash,2025-08
+E00202,2025-08-18,Entertainment,Entertainment expense,995.2,Expense,UPI,2025-08
+E00203,2025-08-19,Entertainment,Entertainment expense,1015.04,Expense,Debit Card,2025-08
+E00204,2025-08-15,Entertainment,Entertainment expense,1323.3,Expense,UPI,2025-08
+E00205,2025-08-28,Entertainment,Entertainment expense,1744.02,Expense,Debit Card,2025-08
+E00206,2025-08-25,Entertainment,Entertainment expense,1090.88,Expense,Debit Card,2025-08
+E00207,2025-08-28,Education,Education expense,2657.23,Expense,Bank Transfer,2025-08
+E00208,2025-08-24,Education,Education expense,1493.52,Expense,Bank Transfer,2025-08
+E00209,2025-08-11,Travel,Travel expense,7295.65,Expense,Credit Card,2025-08
+E00210,2025-08-23,Travel,Travel expense,8852.19,Expense,Debit Card,2025-08
+E00211,2025-08-11,Travel,Travel expense,5078.16,Expense,Debit Card,2025-08
+E00212,2025-08-23,Travel,Travel expense,3626.44,Expense,UPI,2025-08
+E00213,2025-08-19,Savings,Savings expense,2022.94,Expense,UPI,2025-08
+E00214,2025-09-20,Housing,Housing expense,10000.0,Expense,Cash,2025-09
+E00215,2025-09-10,Food,Food expense,459.75,Expense,Cash,2025-09
+E00216,2025-09-10,Food,Food expense,760.9,Expense,Cash,2025-09
+E00217,2025-09-07,Transport,Transport expense,280.76,Expense,UPI,2025-09
+E00218,2025-09-19,Transport,Transport expense,175.74,Expense,UPI,2025-09
+E00219,2025-09-25,Utilities,Utilities expense,2558.12,Expense,Debit Card,2025-09
+E00220,2025-09-16,Health,Health expense,2245.35,Expense,UPI,2025-09
+E00221,2025-09-15,Health,Health expense,1887.9,Expense,Credit Card,2025-09
+E00222,2025-09-09,Shopping,Shopping expense,4119.41,Expense,UPI,2025-09
+E00223,2025-09-04,Shopping,Shopping expense,3490.85,Expense,Credit Card,2025-09
+E00224,2025-09-21,Entertainment,Entertainment expense,795.49,Expense,Credit Card,2025-09
+E00225,2025-09-07,Entertainment,Entertainment expense,1332.94,Expense,Credit Card,2025-09
+E00226,2025-09-16,Entertainment,Entertainment expense,1101.32,Expense,Credit Card,2025-09
+E00227,2025-09-14,Entertainment,Entertainment expense,1745.9,Expense,Debit Card,2025-09
+E00228,2025-09-08,Education,Education expense,1389.06,Expense,UPI,2025-09
+E00229,2025-09-09,Education,Education expense,1020.26,Expense,Credit Card,2025-09
+E00230,2025-09-24,Education,Education expense,2303.14,Expense,UPI,2025-09
+E00231,2025-09-20,Education,Education expense,1914.91,Expense,Credit Card,2025-09
+E00232,2025-09-15,Education,Education expense,1649.88,Expense,Bank Transfer,2025-09
+E00233,2025-09-26,Travel,Travel expense,6117.97,Expense,Cash,2025-09
+E00234,2025-09-18,Travel,Travel expense,8283.82,Expense,Debit Card,2025-09
+E00235,2025-09-05,Savings,Savings expense,1882.99,Expense,Credit Card,2025-09
+E00236,2025-10-12,Housing,Housing expense,10000.0,Expense,UPI,2025-10
+E00237,2025-10-03,Food,Food expense,150.42,Expense,Bank Transfer,2025-10
+E00238,2025-10-15,Food,Food expense,859.81,Expense,Credit Card,2025-10
+E00239,2025-10-18,Transport,Transport expense,1083.48,Expense,UPI,2025-10
+E00240,2025-10-21,Transport,Transport expense,598.25,Expense,Bank Transfer,2025-10
+E00241,2025-10-11,Transport,Transport expense,273.24,Expense,UPI,2025-10
+E00242,2025-10-10,Transport,Transport expense,974.48,Expense,Debit Card,2025-10
+E00243,2025-10-20,Transport,Transport expense,276.77,Expense,UPI,2025-10
+E00244,2025-10-01,Utilities,Utilities expense,1362.25,Expense,Credit Card,2025-10
+E00245,2025-10-22,Health,Health expense,1791.61,Expense,Bank Transfer,2025-10
+E00246,2025-10-03,Health,Health expense,1641.79,Expense,Cash,2025-10
+E00247,2025-10-14,Shopping,Shopping expense,3301.4,Expense,Debit Card,2025-10
+E00248,2025-10-19,Shopping,Shopping expense,3043.28,Expense,UPI,2025-10
+E00249,2025-10-14,Shopping,Shopping expense,924.89,Expense,UPI,2025-10
+E00250,2025-10-05,Entertainment,Entertainment expense,963.0,Expense,Debit Card,2025-10
+E00251,2025-10-01,Entertainment,Entertainment expense,788.39,Expense,UPI,2025-10
+E00252,2025-10-19,Entertainment,Entertainment expense,1125.53,Expense,Debit Card,2025-10
+E00253,2025-10-01,Education,Education expense,920.46,Expense,Cash,2025-10
+E00254,2025-10-28,Education,Education expense,1810.46,Expense,Credit Card,2025-10
+E00255,2025-10-27,Travel,Travel expense,3575.87,Expense,Credit Card,2025-10
+E00256,2025-10-22,Travel,Travel expense,4031.59,Expense,UPI,2025-10
+E00257,2025-10-24,Travel,Travel expense,3263.55,Expense,UPI,2025-10
+E00258,2025-10-07,Travel,Travel expense,1565.17,Expense,Cash,2025-10
+E00259,2025-10-23,Savings,Savings expense,1024.67,Expense,Cash,2025-10
+E00260,2025-11-01,Housing,Housing expense,10000.0,Expense,UPI,2025-11
+E00261,2025-11-10,Food,Food expense,754.37,Expense,Debit Card,2025-11
+E00262,2025-11-18,Food,Food expense,204.04,Expense,Bank Transfer,2025-11
+E00263,2025-11-26,Food,Food expense,307.47,Expense,Bank Transfer,2025-11
+E00264,2025-11-03,Transport,Transport expense,203.4,Expense,Credit Card,2025-11
+E00265,2025-11-11,Transport,Transport expense,140.96,Expense,Credit Card,2025-11
+E00266,2025-11-23,Transport,Transport expense,730.46,Expense,Debit Card,2025-11
+E00267,2025-11-19,Utilities,Utilities expense,1703.68,Expense,Bank Transfer,2025-11
+E00268,2025-11-25,Health,Health expense,1913.52,Expense,Credit Card,2025-11
+E00269,2025-11-02,Health,Health expense,293.88,Expense,UPI,2025-11
+E00270,2025-11-28,Health,Health expense,532.37,Expense,Debit Card,2025-11
+E00271,2025-11-23,Health,Health expense,238.93,Expense,Debit Card,2025-11
+E00272,2025-11-06,Shopping,Shopping expense,408.03,Expense,UPI,2025-11
+E00273,2025-11-14,Shopping,Shopping expense,320.65,Expense,Debit Card,2025-11
+E00274,2025-11-23,Shopping,Shopping expense,604.87,Expense,Credit Card,2025-11
+E00275,2025-11-21,Entertainment,Entertainment expense,1372.28,Expense,Cash,2025-11
+E00276,2025-11-18,Entertainment,Entertainment expense,939.63,Expense,Bank Transfer,2025-11
+E00277,2025-11-15,Entertainment,Entertainment expense,1145.88,Expense,Credit Card,2025-11
+E00278,2025-11-16,Education,Education expense,2991.83,Expense,Cash,2025-11
+E00279,2025-11-02,Education,Education expense,1572.22,Expense,Credit Card,2025-11
+E00280,2025-11-05,Education,Education expense,1509.49,Expense,Cash,2025-11
+E00281,2025-11-14,Travel,Travel expense,4304.34,Expense,Credit Card,2025-11
+E00282,2025-11-11,Travel,Travel expense,4986.45,Expense,UPI,2025-11
+E00283,2025-11-22,Savings,Savings expense,1136.49,Expense,UPI,2025-11
+E00284,2025-12-27,Housing,Housing expense,10000.0,Expense,Debit Card,2025-12
+E00285,2025-12-04,Food,Food expense,525.5,Expense,Cash,2025-12
+E00286,2025-12-14,Food,Food expense,309.74,Expense,Cash,2025-12
+E00287,2025-12-07,Food,Food expense,369.48,Expense,Cash,2025-12
+E00288,2025-12-27,Food,Food expense,896.88,Expense,Debit Card,2025-12
+E00289,2025-12-05,Transport,Transport expense,318.77,Expense,UPI,2025-12
+E00290,2025-12-28,Transport,Transport expense,152.73,Expense,Bank Transfer,2025-12
+E00291,2025-12-03,Transport,Transport expense,967.79,Expense,Cash,2025-12
+E00292,2025-12-27,Transport,Transport expense,556.14,Expense,Debit Card,2025-12
+E00293,2025-12-23,Utilities,Utilities expense,3151.42,Expense,UPI,2025-12
+E00294,2025-12-06,Health,Health expense,1948.09,Expense,Cash,2025-12
+E00295,2025-12-09,Health,Health expense,327.46,Expense,UPI,2025-12
+E00296,2025-12-25,Health,Health expense,807.96,Expense,Credit Card,2025-12
+E00297,2025-12-01,Health,Health expense,817.49,Expense,Cash,2025-12
+E00298,2025-12-07,Shopping,Shopping expense,2101.3,Expense,Debit Card,2025-12
+E00299,2025-12-02,Shopping,Shopping expense,3039.97,Expense,UPI,2025-12
+E00300,2025-12-20,Entertainment,Entertainment expense,326.77,Expense,Bank Transfer,2025-12
+E00301,2025-12-10,Entertainment,Entertainment expense,751.15,Expense,UPI,2025-12
+E00302,2025-12-23,Entertainment,Entertainment expense,958.22,Expense,Credit Card,2025-12
+E00303,2025-12-14,Entertainment,Entertainment expense,488.58,Expense,Debit Card,2025-12
+E00304,2025-12-14,Entertainment,Entertainment expense,835.33,Expense,Debit Card,2025-12
+E00305,2025-12-21,Education,Education expense,2215.85,Expense,Cash,2025-12
+E00306,2025-12-11,Education,Education expense,2065.77,Expense,Cash,2025-12
+E00307,2025-12-11,Travel,Travel expense,2910.3,Expense,UPI,2025-12
+E00308,2025-12-13,Travel,Travel expense,8975.13,Expense,Cash,2025-12
+E00309,2025-12-20,Savings,Savings expense,3531.18,Expense,Debit Card,2025-12
+E00310,2026-01-14,Housing,Housing expense,10000.0,Expense,Credit Card,2026-01
+E00311,2026-01-13,Food,Food expense,333.95,Expense,Bank Transfer,2026-01
+E00312,2026-01-27,Food,Food expense,425.1,Expense,UPI,2026-01
+E00313,2026-01-10,Food,Food expense,200.53,Expense,Bank Transfer,2026-01
+E00314,2026-01-10,Food,Food expense,381.86,Expense,Bank Transfer,2026-01
+E00315,2026-01-13,Transport,Transport expense,326.11,Expense,Debit Card,2026-01
+E00316,2026-01-14,Transport,Transport expense,747.66,Expense,Bank Transfer,2026-01
+E00317,2026-01-11,Transport,Transport expense,299.96,Expense,UPI,2026-01
+E00318,2026-01-03,Utilities,Utilities expense,2806.48,Expense,Cash,2026-01
+E00319,2026-01-28,Health,Health expense,658.85,Expense,UPI,2026-01
+E00320,2026-01-26,Health,Health expense,1633.03,Expense,Bank Transfer,2026-01
+E00321,2026-01-05,Health,Health expense,2351.48,Expense,Credit Card,2026-01
+E00322,2026-01-19,Health,Health expense,1931.72,Expense,Debit Card,2026-01
+E00323,2026-01-06,Shopping,Shopping expense,1539.36,Expense,Bank Transfer,2026-01
+E00324,2026-01-05,Shopping,Shopping expense,4057.72,Expense,UPI,2026-01
+E00325,2026-01-17,Entertainment,Entertainment expense,570.5,Expense,Cash,2026-01
+E00326,2026-01-08,Entertainment,Entertainment expense,1731.55,Expense,Debit Card,2026-01
+E00327,2026-01-28,Entertainment,Entertainment expense,360.21,Expense,UPI,2026-01
+E00328,2026-01-25,Education,Education expense,949.34,Expense,Bank Transfer,2026-01
+E00329,2026-01-26,Education,Education expense,1507.71,Expense,Credit Card,2026-01
+E00330,2026-01-12,Education,Education expense,1299.25,Expense,UPI,2026-01
+E00331,2026-01-01,Education,Education expense,1171.09,Expense,UPI,2026-01
+E00332,2026-01-04,Travel,Travel expense,2254.09,Expense,Debit Card,2026-01
+E00333,2026-01-08,Travel,Travel expense,6445.32,Expense,UPI,2026-01
+E00334,2026-01-25,Savings,Savings expense,4310.12,Expense,Cash,2026-01
+E00335,2026-02-24,Housing,Housing expense,10000.0,Expense,Debit Card,2026-02
+E00336,2026-02-28,Food,Food expense,881.99,Expense,Cash,2026-02
+E00337,2026-02-08,Food,Food expense,261.29,Expense,Bank Transfer,2026-02
+E00338,2026-02-11,Food,Food expense,654.17,Expense,Bank Transfer,2026-02
+E00339,2026-02-03,Food,Food expense,689.81,Expense,UPI,2026-02
+E00340,2026-02-21,Food,Food expense,550.97,Expense,Bank Transfer,2026-02
+E00341,2026-02-20,Transport,Transport expense,153.44,Expense,Debit Card,2026-02
+E00342,2026-02-03,Transport,Transport expense,464.21,Expense,UPI,2026-02
+E00343,2026-02-02,Utilities,Utilities expense,3320.9,Expense,Credit Card,2026-02
+E00344,2026-02-13,Health,Health expense,1592.42,Expense,Credit Card,2026-02
+E00345,2026-02-19,Health,Health expense,1578.13,Expense,Bank Transfer,2026-02
+E00346,2026-02-08,Shopping,Shopping expense,528.51,Expense,Credit Card,2026-02
+E00347,2026-02-07,Shopping,Shopping expense,2198.36,Expense,Bank Transfer,2026-02
+E00348,2026-02-07,Entertainment,Entertainment expense,1626.49,Expense,Cash,2026-02
+E00349,2026-02-11,Entertainment,Entertainment expense,897.76,Expense,UPI,2026-02
+E00350,2026-02-03,Education,Education expense,370.4,Expense,UPI,2026-02
+E00351,2026-02-03,Education,Education expense,2567.7,Expense,Debit Card,2026-02
+E00352,2026-02-18,Education,Education expense,2232.73,Expense,Credit Card,2026-02
+E00353,2026-02-13,Education,Education expense,2296.8,Expense,UPI,2026-02
+E00354,2026-02-13,Travel,Travel expense,7269.5,Expense,UPI,2026-02
+E00355,2026-02-04,Travel,Travel expense,6977.54,Expense,Bank Transfer,2026-02
+E00356,2026-02-06,Savings,Savings expense,1261.69,Expense,Credit Card,2026-02
+E00357,2026-03-20,Housing,Housing expense,10000.0,Expense,UPI,2026-03
+E00358,2026-03-03,Food,Food expense,294.82,Expense,Bank Transfer,2026-03
+E00359,2026-03-01,Food,Food expense,310.87,Expense,Debit Card,2026-03
+E00360,2026-03-10,Food,Food expense,399.47,Expense,Cash,2026-03
+E00361,2026-03-14,Food,Food expense,853.05,Expense,Debit Card,2026-03
+E00362,2026-03-12,Transport,Transport expense,1199.79,Expense,Debit Card,2026-03
+E00363,2026-03-22,Transport,Transport expense,495.8,Expense,Credit Card,2026-03
+E00364,2026-03-10,Utilities,Utilities expense,2958.09,Expense,Bank Transfer,2026-03
+E00365,2026-03-15,Health,Health expense,555.97,Expense,Cash,2026-03
+E00366,2026-03-17,Health,Health expense,992.39,Expense,Credit Card,2026-03
+E00367,2026-03-05,Health,Health expense,2298.65,Expense,UPI,2026-03
+E00368,2026-03-16,Shopping,Shopping expense,386.39,Expense,Bank Transfer,2026-03
+E00369,2026-03-04,Shopping,Shopping expense,3834.55,Expense,Cash,2026-03
+E00370,2026-03-25,Shopping,Shopping expense,425.79,Expense,UPI,2026-03
+E00371,2026-03-20,Shopping,Shopping expense,3453.48,Expense,Credit Card,2026-03
+E00372,2026-03-24,Entertainment,Entertainment expense,347.31,Expense,Credit Card,2026-03
+E00373,2026-03-15,Entertainment,Entertainment expense,862.2,Expense,UPI,2026-03
+E00374,2026-03-11,Education,Education expense,1885.65,Expense,Credit Card,2026-03
+E00375,2026-03-03,Education,Education expense,2896.39,Expense,UPI,2026-03
+E00376,2026-03-03,Education,Education expense,1635.83,Expense,Cash,2026-03
+E00377,2026-03-14,Education,Education expense,1757.97,Expense,Debit Card,2026-03
+E00378,2026-03-18,Travel,Travel expense,8761.75,Expense,Debit Card,2026-03
+E00379,2026-03-25,Travel,Travel expense,6971.25,Expense,Credit Card,2026-03
+E00380,2026-03-25,Travel,Travel expense,5452.79,Expense,Cash,2026-03
+E00381,2026-03-07,Travel,Travel expense,2594.98,Expense,Bank Transfer,2026-03
+E00382,2026-03-24,Travel,Travel expense,8582.12,Expense,UPI,2026-03
+E00383,2026-03-03,Savings,Savings expense,4715.76,Expense,Credit Card,2026-03
+E00384,2026-04-21,Housing,Housing expense,10000.0,Expense,UPI,2026-04
+E00385,2026-04-26,Food,Food expense,319.08,Expense,Credit Card,2026-04
+E00386,2026-04-09,Food,Food expense,884.57,Expense,Bank Transfer,2026-04
+E00387,2026-04-01,Food,Food expense,534.3,Expense,Cash,2026-04
+E00388,2026-04-06,Food,Food expense,688.53,Expense,Cash,2026-04
+E00389,2026-04-08,Food,Food expense,459.5,Expense,Bank Transfer,2026-04
+E00390,2026-04-18,Transport,Transport expense,154.83,Expense,Bank Transfer,2026-04
+E00391,2026-04-28,Transport,Transport expense,989.07,Expense,UPI,2026-04
+E00392,2026-04-07,Transport,Transport expense,467.85,Expense,Cash,2026-04
+E00393,2026-04-02,Utilities,Utilities expense,792.09,Expense,Credit Card,2026-04
+E00394,2026-04-20,Health,Health expense,2126.05,Expense,Debit Card,2026-04
+E00395,2026-04-03,Health,Health expense,1699.86,Expense,Debit Card,2026-04
+E00396,2026-04-01,Health,Health expense,1755.56,Expense,Debit Card,2026-04
+E00397,2026-04-23,Shopping,Shopping expense,4113.95,Expense,Cash,2026-04
+E00398,2026-04-07,Shopping,Shopping expense,1325.8,Expense,Cash,2026-04
+E00399,2026-04-11,Entertainment,Entertainment expense,1236.34,Expense,UPI,2026-04
+E00400,2026-04-16,Entertainment,Entertainment expense,1514.33,Expense,Debit Card,2026-04
+E00401,2026-04-14,Entertainment,Entertainment expense,1520.66,Expense,Bank Transfer,2026-04
+E00402,2026-04-24,Education,Education expense,2975.93,Expense,Bank Transfer,2026-04
+E00403,2026-04-23,Education,Education expense,1710.72,Expense,Bank Transfer,2026-04
+E00404,2026-04-22,Education,Education expense,1189.07,Expense,Credit Card,2026-04
+E00405,2026-04-14,Education,Education expense,2634.13,Expense,Bank Transfer,2026-04
+E00406,2026-04-15,Travel,Travel expense,3563.47,Expense,UPI,2026-04
+E00407,2026-04-13,Travel,Travel expense,5852.63,Expense,Bank Transfer,2026-04
+E00408,2026-04-19,Travel,Travel expense,4026.77,Expense,Debit Card,2026-04
+E00409,2026-04-01,Savings,Savings expense,2095.36,Expense,UPI,2026-04
+E00410,2026-05-05,Housing,Housing expense,10000.0,Expense,Bank Transfer,2026-05
+E00411,2026-05-14,Food,Food expense,312.85,Expense,UPI,2026-05
+E00412,2026-05-14,Food,Food expense,333.11,Expense,Bank Transfer,2026-05
+E00413,2026-05-15,Transport,Transport expense,1174.02,Expense,Credit Card,2026-05
+E00414,2026-05-22,Transport,Transport expense,371.23,Expense,Bank Transfer,2026-05
+E00415,2026-05-26,Transport,Transport expense,961.9,Expense,Bank Transfer,2026-05
+E00416,2026-05-19,Transport,Transport expense,844.11,Expense,Debit Card,2026-05
+E00417,2026-05-15,Transport,Transport expense,838.84,Expense,UPI,2026-05
+E00418,2026-05-06,Utilities,Utilities expense,3091.27,Expense,Bank Transfer,2026-05
+E00419,2026-05-28,Health,Health expense,1175.31,Expense,Cash,2026-05
+E00420,2026-05-20,Health,Health expense,1121.39,Expense,Bank Transfer,2026-05
+E00421,2026-05-13,Health,Health expense,1107.61,Expense,Bank Transfer,2026-05
+E00422,2026-05-03,Health,Health expense,1484.01,Expense,Debit Card,2026-05
+E00423,2026-05-06,Shopping,Shopping expense,461.22,Expense,Cash,2026-05
+E00424,2026-05-22,Shopping,Shopping expense,994.64,Expense,Credit Card,2026-05
+E00425,2026-05-14,Shopping,Shopping expense,2420.58,Expense,Bank Transfer,2026-05
+E00426,2026-05-25,Shopping,Shopping expense,4007.76,Expense,Debit Card,2026-05
+E00427,2026-05-01,Shopping,Shopping expense,4327.65,Expense,Credit Card,2026-05
+E00428,2026-05-13,Entertainment,Entertainment expense,1168.67,Expense,Debit Card,2026-05
+E00429,2026-05-25,Entertainment,Entertainment expense,1177.25,Expense,Debit Card,2026-05
+E00430,2026-05-22,Education,Education expense,913.63,Expense,UPI,2026-05
+E00431,2026-05-15,Education,Education expense,2788.19,Expense,Bank Transfer,2026-05
+E00432,2026-05-13,Travel,Travel expense,6622.07,Expense,Bank Transfer,2026-05
+E00433,2026-05-21,Travel,Travel expense,8537.22,Expense,Credit Card,2026-05
+E00434,2026-05-12,Travel,Travel expense,7894.89,Expense,UPI,2026-05
+E00435,2026-05-21,Travel,Travel expense,5505.25,Expense,UPI,2026-05
+E00436,2026-05-04,Travel,Travel expense,3513.51,Expense,Cash,2026-05
+E00437,2026-05-06,Savings,Savings expense,2492.5,Expense,Credit Card,2026-05
+E00438,2026-06-08,Housing,Housing expense,10000.0,Expense,Bank Transfer,2026-06
+E00439,2026-06-21,Food,Food expense,339.45,Expense,Cash,2026-06
+E00440,2026-06-23,Food,Food expense,180.13,Expense,Debit Card,2026-06
+E00441,2026-06-20,Food,Food expense,187.56,Expense,Cash,2026-06
+E00442,2026-06-11,Transport,Transport expense,820.21,Expense,UPI,2026-06
+E00443,2026-06-14,Transport,Transport expense,1014.39,Expense,Credit Card,2026-06
+E00444,2026-06-02,Transport,Transport expense,549.59,Expense,Debit Card,2026-06
+E00445,2026-06-20,Transport,Transport expense,779.59,Expense,UPI,2026-06
+E00446,2026-06-11,Utilities,Utilities expense,2771.98,Expense,Cash,2026-06
+E00447,2026-06-07,Health,Health expense,749.44,Expense,Cash,2026-06
+E00448,2026-06-22,Health,Health expense,1671.39,Expense,Cash,2026-06
+E00449,2026-06-09,Shopping,Shopping expense,2550.14,Expense,UPI,2026-06
+E00450,2026-06-28,Shopping,Shopping expense,2926.22,Expense,Credit Card,2026-06
+E00451,2026-06-22,Shopping,Shopping expense,3133.17,Expense,Cash,2026-06
+E00452,2026-06-22,Shopping,Shopping expense,2699.46,Expense,Debit Card,2026-06
+E00453,2026-06-24,Shopping,Shopping expense,3258.33,Expense,Debit Card,2026-06
+E00454,2026-06-24,Entertainment,Entertainment expense,1499.74,Expense,UPI,2026-06
+E00455,2026-06-22,Entertainment,Entertainment expense,502.35,Expense,Debit Card,2026-06
+E00456,2026-06-28,Entertainment,Entertainment expense,894.34,Expense,Cash,2026-06
+E00457,2026-06-13,Entertainment,Entertainment expense,1649.13,Expense,UPI,2026-06
+E00458,2026-06-06,Entertainment,Entertainment expense,1585.75,Expense,Credit Card,2026-06
+E00459,2026-06-10,Education,Education expense,1354.68,Expense,Cash,2026-06
+E00460,2026-06-16,Education,Education expense,1840.31,Expense,UPI,2026-06
+E00461,2026-06-13,Travel,Travel expense,2718.96,Expense,Debit Card,2026-06
+E00462,2026-06-19,Travel,Travel expense,5340.95,Expense,UPI,2026-06
+E00463,2026-06-02,Savings,Savings expense,2742.4,Expense,Cash,2026-06
+E00464,2026-07-16,Housing,Housing expense,10000.0,Expense,UPI,2026-07
+E00465,2026-07-24,Food,Food expense,890.05,Expense,Debit Card,2026-07
+E00466,2026-07-08,Food,Food expense,177.02,Expense,Bank Transfer,2026-07
+E00467,2026-07-26,Transport,Transport expense,698.86,Expense,UPI,2026-07
+E00468,2026-07-21,Transport,Transport expense,436.43,Expense,UPI,2026-07
+E00469,2026-07-13,Transport,Transport expense,1109.87,Expense,Credit Card,2026-07
+E00470,2026-07-20,Utilities,Utilities expense,2936.18,Expense,Credit Card,2026-07
+E00471,2026-07-25,Health,Health expense,808.55,Expense,Debit Card,2026-07
+E00472,2026-07-27,Health,Health expense,2135.48,Expense,UPI,2026-07
+E00473,2026-07-21,Health,Health expense,2179.99,Expense,Bank Transfer,2026-07
+E00474,2026-07-18,Health,Health expense,554.2,Expense,Debit Card,2026-07
+E00475,2026-07-08,Health,Health expense,2150.82,Expense,Bank Transfer,2026-07
+E00476,2026-07-09,Shopping,Shopping expense,1297.08,Expense,Credit Card,2026-07
+E00477,2026-07-24,Shopping,Shopping expense,802.08,Expense,Debit Card,2026-07
+E00478,2026-07-21,Shopping,Shopping expense,2149.24,Expense,Bank Transfer,2026-07
+E00479,2026-07-24,Shopping,Shopping expense,4339.95,Expense,Cash,2026-07
+E00480,2026-07-02,Shopping,Shopping expense,3974.93,Expense,Credit Card,2026-07
+E00481,2026-07-12,Entertainment,Entertainment expense,1624.38,Expense,Debit Card,2026-07
+E00482,2026-07-21,Entertainment,Entertainment expense,521.69,Expense,Bank Transfer,2026-07
+E00483,2026-07-12,Entertainment,Entertainment expense,963.38,Expense,Cash,2026-07
+E00484,2026-07-04,Entertainment,Entertainment expense,578.55,Expense,UPI,2026-07
+E00485,2026-07-14,Entertainment,Entertainment expense,1542.1,Expense,Bank Transfer,2026-07
+E00486,2026-07-23,Education,Education expense,990.16,Expense,Bank Transfer,2026-07
+E00487,2026-07-15,Education,Education expense,625.83,Expense,Credit Card,2026-07
+E00488,2026-07-16,Education,Education expense,449.21,Expense,UPI,2026-07
+E00489,2026-07-20,Education,Education expense,2398.32,Expense,Cash,2026-07
+E00490,2026-07-09,Education,Education expense,2408.26,Expense,Bank Transfer,2026-07
+E00491,2026-07-17,Travel,Travel expense,7729.14,Expense,Cash,2026-07
+E00492,2026-07-08,Travel,Travel expense,3570.21,Expense,Credit Card,2026-07
+E00493,2026-07-28,Travel,Travel expense,7457.52,Expense,Cash,2026-07
+E00494,2026-07-10,Travel,Travel expense,6703.55,Expense,Credit Card,2026-07
+E00495,2026-07-04,Travel,Travel expense,8968.35,Expense,Credit Card,2026-07
+E00496,2026-07-21,Savings,Savings expense,4062.89,Expense,Debit Card,2026-07
+E00497,2026-08-19,Housing,Housing expense,10000.0,Expense,UPI,2026-08
+E00498,2026-08-19,Food,Food expense,886.33,Expense,Cash,2026-08
+E00499,2026-08-11,Food,Food expense,807.3,Expense,Credit Card,2026-08
+E00500,2026-08-16,Food,Food expense,723.77,Expense,Debit Card,2026-08
+E00501,2026-08-25,Transport,Transport expense,1190.75,Expense,Cash,2026-08
+E00502,2026-08-15,Transport,Transport expense,512.67,Expense,Debit Card,2026-08
+E00503,2026-08-08,Utilities,Utilities expense,2830.06,Expense,UPI,2026-08
+E00504,2026-08-14,Health,Health expense,1953.32,Expense,Debit Card,2026-08
+E00505,2026-08-16,Health,Health expense,1756.77,Expense,UPI,2026-08
+E00506,2026-08-18,Health,Health expense,1243.22,Expense,Debit Card,2026-08
+E00507,2026-08-06,Health,Health expense,553.92,Expense,Debit Card,2026-08
+E00508,2026-08-01,Health,Health expense,483.26,Expense,Cash,2026-08
+E00509,2026-08-08,Shopping,Shopping expense,2932.75,Expense,Credit Card,2026-08
+E00510,2026-08-11,Shopping,Shopping expense,1691.24,Expense,Credit Card,2026-08
+E00511,2026-08-24,Entertainment,Entertainment expense,581.32,Expense,Cash,2026-08
+E00512,2026-08-22,Entertainment,Entertainment expense,1452.37,Expense,UPI,2026-08
+E00513,2026-08-06,Education,Education expense,2816.5,Expense,Bank Transfer,2026-08
+E00514,2026-08-06,Education,Education expense,1732.33,Expense,Credit Card,2026-08
+E00515,2026-08-08,Education,Education expense,1250.64,Expense,Debit Card,2026-08
+E00516,2026-08-19,Education,Education expense,443.58,Expense,Cash,2026-08
+E00517,2026-08-28,Travel,Travel expense,5956.14,Expense,Credit Card,2026-08
+E00518,2026-08-18,Travel,Travel expense,6287.22,Expense,Bank Transfer,2026-08
+E00519,2026-08-22,Travel,Travel expense,4145.07,Expense,Cash,2026-08
+E00520,2026-08-01,Travel,Travel expense,2633.3,Expense,Cash,2026-08
+E00521,2026-08-12,Savings,Savings expense,3168.64,Expense,Bank Transfer,2026-08
+E00522,2026-09-19,Housing,Housing expense,10000.0,Expense,Credit Card,2026-09
+E00523,2026-09-05,Food,Food expense,798.26,Expense,Debit Card,2026-09
+E00524,2026-09-28,Food,Food expense,770.87,Expense,Bank Transfer,2026-09
+E00525,2026-09-18,Food,Food expense,645.95,Expense,Bank Transfer,2026-09
+E00526,2026-09-24,Transport,Transport expense,268.89,Expense,Credit Card,2026-09
+E00527,2026-09-08,Transport,Transport expense,936.52,Expense,UPI,2026-09
+E00528,2026-09-11,Transport,Transport expense,966.43,Expense,UPI,2026-09
+E00529,2026-09-18,Transport,Transport expense,137.7,Expense,Credit Card,2026-09
+E00530,2026-09-07,Utilities,Utilities expense,2408.43,Expense,UPI,2026-09
+E00531,2026-09-08,Health,Health expense,1107.2,Expense,UPI,2026-09
+E00532,2026-09-04,Health,Health expense,2479.82,Expense,Debit Card,2026-09
+E00533,2026-09-17,Health,Health expense,234.96,Expense,Cash,2026-09
+E00534,2026-09-12,Health,Health expense,1660.43,Expense,UPI,2026-09
+E00535,2026-09-24,Shopping,Shopping expense,3467.18,Expense,Debit Card,2026-09
+E00536,2026-09-28,Shopping,Shopping expense,2798.88,Expense,Cash,2026-09
+E00537,2026-09-08,Shopping,Shopping expense,3014.95,Expense,Cash,2026-09
+E00538,2026-09-04,Shopping,Shopping expense,3767.25,Expense,Debit Card,2026-09
+E00539,2026-09-21,Entertainment,Entertainment expense,1715.73,Expense,Debit Card,2026-09
+E00540,2026-09-24,Entertainment,Entertainment expense,801.76,Expense,UPI,2026-09
+E00541,2026-09-24,Education,Education expense,1865.05,Expense,Debit Card,2026-09
+E00542,2026-09-24,Education,Education expense,2093.14,Expense,Cash,2026-09
+E00543,2026-09-23,Education,Education expense,669.16,Expense,Cash,2026-09
+E00544,2026-09-03,Travel,Travel expense,8501.17,Expense,UPI,2026-09
+E00545,2026-09-27,Travel,Travel expense,5194.91,Expense,Debit Card,2026-09
+E00546,2026-09-19,Travel,Travel expense,2826.37,Expense,Bank Transfer,2026-09
+E00547,2026-09-23,Travel,Travel expense,3852.51,Expense,Debit Card,2026-09
+E00548,2026-09-03,Savings,Savings expense,4304.0,Expense,Bank Transfer,2026-09
+E00549,2026-10-11,Housing,Housing expense,10000.0,Expense,Cash,2026-10
+E00550,2026-10-17,Food,Food expense,221.08,Expense,Credit Card,2026-10
+E00551,2026-10-26,Food,Food expense,321.99,Expense,Credit Card,2026-10
+E00552,2026-10-18,Transport,Transport expense,870.71,Expense,UPI,2026-10
+E00553,2026-10-06,Transport,Transport expense,675.43,Expense,Bank Transfer,2026-10
+E00554,2026-10-10,Transport,Transport expense,960.69,Expense,Bank Transfer,2026-10
+E00555,2026-10-10,Transport,Transport expense,599.32,Expense,Credit Card,2026-10
+E00556,2026-10-06,Utilities,Utilities expense,1915.06,Expense,Credit Card,2026-10
+E00557,2026-10-21,Health,Health expense,2345.13,Expense,Credit Card,2026-10
+E00558,2026-10-18,Health,Health expense,746.28,Expense,Bank Transfer,2026-10
+E00559,2026-10-02,Health,Health expense,2403.18,Expense,Credit Card,2026-10
+E00560,2026-10-28,Health,Health expense,564.61,Expense,Bank Transfer,2026-10
+E00561,2026-10-15,Health,Health expense,1083.89,Expense,Debit Card,2026-10
+E00562,2026-10-23,Shopping,Shopping expense,1271.76,Expense,UPI,2026-10
+E00563,2026-10-26,Shopping,Shopping expense,3819.0,Expense,UPI,2026-10
+E00564,2026-10-22,Shopping,Shopping expense,638.14,Expense,Cash,2026-10
+E00565,2026-10-18,Entertainment,Entertainment expense,417.2,Expense,UPI,2026-10
+E00566,2026-10-02,Entertainment,Entertainment expense,1211.03,Expense,Bank Transfer,2026-10
+E00567,2026-10-12,Entertainment,Entertainment expense,881.8,Expense,Debit Card,2026-10
+E00568,2026-10-05,Entertainment,Entertainment expense,1246.29,Expense,Bank Transfer,2026-10
+E00569,2026-10-27,Education,Education expense,1497.54,Expense,Debit Card,2026-10
+E00570,2026-10-27,Education,Education expense,1288.14,Expense,Credit Card,2026-10
+E00571,2026-10-22,Education,Education expense,1703.65,Expense,UPI,2026-10
+E00572,2026-10-13,Education,Education expense,1372.05,Expense,Debit Card,2026-10
+E00573,2026-10-22,Education,Education expense,2609.54,Expense,Debit Card,2026-10
+E00574,2026-10-12,Travel,Travel expense,5173.2,Expense,Debit Card,2026-10
+E00575,2026-10-07,Travel,Travel expense,3743.26,Expense,Credit Card,2026-10
+E00576,2026-10-27,Travel,Travel expense,7972.44,Expense,Cash,2026-10
+E00577,2026-10-26,Savings,Savings expense,4568.97,Expense,Credit Card,2026-10
+E00578,2026-11-24,Housing,Housing expense,10000.0,Expense,Bank Transfer,2026-11
+E00579,2026-11-14,Food,Food expense,175.62,Expense,Cash,2026-11
+E00580,2026-11-03,Food,Food expense,709.94,Expense,UPI,2026-11
+E00581,2026-11-17,Food,Food expense,316.15,Expense,Credit Card,2026-11
+E00582,2026-11-12,Food,Food expense,578.26,Expense,Debit Card,2026-11
+E00583,2026-11-10,Food,Food expense,591.91,Expense,Cash,2026-11
+E00584,2026-11-15,Transport,Transport expense,162.94,Expense,Cash,2026-11
+E00585,2026-11-21,Transport,Transport expense,995.25,Expense,Cash,2026-11
+E00586,2026-11-26,Utilities,Utilities expense,2750.69,Expense,Cash,2026-11
+E00587,2026-11-13,Health,Health expense,2479.93,Expense,Bank Transfer,2026-11
+E00588,2026-11-16,Health,Health expense,1862.44,Expense,Debit Card,2026-11
+E00589,2026-11-09,Health,Health expense,1601.67,Expense,Debit Card,2026-11
+E00590,2026-11-27,Shopping,Shopping expense,3608.73,Expense,Cash,2026-11
+E00591,2026-11-16,Shopping,Shopping expense,4494.47,Expense,Bank Transfer,2026-11
+E00592,2026-11-19,Shopping,Shopping expense,424.95,Expense,UPI,2026-11
+E00593,2026-11-08,Entertainment,Entertainment expense,1486.96,Expense,Debit Card,2026-11
+E00594,2026-11-08,Entertainment,Entertainment expense,696.88,Expense,Credit Card,2026-11
+E00595,2026-11-28,Entertainment,Entertainment expense,1470.86,Expense,Cash,2026-11
+E00596,2026-11-09,Education,Education expense,1962.52,Expense,Credit Card,2026-11
+E00597,2026-11-06,Education,Education expense,1787.02,Expense,Credit Card,2026-11
+E00598,2026-11-07,Education,Education expense,1470.59,Expense,UPI,2026-11
+E00599,2026-11-25,Education,Education expense,408.28,Expense,Debit Card,2026-11
+E00600,2026-11-19,Education,Education expense,918.73,Expense,Cash,2026-11
+E00601,2026-11-28,Travel,Travel expense,4605.01,Expense,Credit Card,2026-11
+E00602,2026-11-28,Travel,Travel expense,6825.01,Expense,Cash,2026-11
+E00603,2026-11-04,Travel,Travel expense,4332.82,Expense,Bank Transfer,2026-11
+E00604,2026-11-11,Savings,Savings expense,2802.87,Expense,Debit Card,2026-11
+E00605,2026-12-15,Housing,Housing expense,10000.0,Expense,Debit Card,2026-12
+E00606,2026-12-04,Food,Food expense,837.43,Expense,Credit Card,2026-12
+E00607,2026-12-08,Food,Food expense,359.38,Expense,UPI,2026-12
+E00608,2026-12-20,Food,Food expense,630.72,Expense,Credit Card,2026-12
+E00609,2026-12-19,Food,Food expense,545.8,Expense,Credit Card,2026-12
+E00610,2026-12-12,Transport,Transport expense,1167.51,Expense,Bank Transfer,2026-12
+E00611,2026-12-11,Transport,Transport expense,215.99,Expense,UPI,2026-12
+E00612,2026-12-19,Utilities,Utilities expense,1877.6,Expense,Cash,2026-12
+E00613,2026-12-23,Health,Health expense,852.92,Expense,Cash,2026-12
+E00614,2026-12-22,Health,Health expense,1835.69,Expense,Credit Card,2026-12
+E00615,2026-12-27,Health,Health expense,297.44,Expense,Credit Card,2026-12
+E00616,2026-12-18,Health,Health expense,1974.02,Expense,Bank Transfer,2026-12
+E00617,2026-12-05,Health,Health expense,1831.43,Expense,Cash,2026-12
+E00618,2026-12-23,Shopping,Shopping expense,2797.95,Expense,Cash,2026-12
+E00619,2026-12-12,Shopping,Shopping expense,2253.77,Expense,Cash,2026-12
+E00620,2026-12-18,Shopping,Shopping expense,1744.58,Expense,Bank Transfer,2026-12
+E00621,2026-12-27,Entertainment,Entertainment expense,710.84,Expense,Debit Card,2026-12
+E00622,2026-12-12,Entertainment,Entertainment expense,1125.19,Expense,Credit Card,2026-12
+E00623,2026-12-17,Entertainment,Entertainment expense,980.24,Expense,Cash,2026-12
+E00624,2026-12-14,Education,Education expense,1560.32,Expense,Debit Card,2026-12
+E00625,2026-12-03,Education,Education expense,2280.28,Expense,Credit Card,2026-12
+E00626,2026-12-09,Travel,Travel expense,6445.89,Expense,UPI,2026-12
+E00627,2026-12-06,Travel,Travel expense,6153.18,Expense,UPI,2026-12
+E00628,2026-12-14,Savings,Savings expense,2256.39,Expense,Bank Transfer,2026-12

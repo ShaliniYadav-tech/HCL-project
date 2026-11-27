@@ -1,0 +1,17 @@
+Total Expense =
+SUM(expenses[amount])
+
+Average Monthly Expense =
+DIVIDE([Total Expense], DISTINCTCOUNT(expenses[month]), 0)
+
+Budget =
+RELATED(budgets[monthly_budget])
+
+Over Budget =
+MAXX(
+    FILTER(
+        VALUES(expenses[category]),
+        CALCULATE([Total Expense]) > CALCULATE([Budget])
+    ),
+    CALCULATE([Total Expense] - [Budget])
+)

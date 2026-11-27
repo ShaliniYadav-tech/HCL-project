@@ -1,0 +1,7 @@
+transaction_id,date,category,description,amount,transaction_type,payment_method
+E00006,2025-01-24,Transport,Transport expense,564.85,Expense,Credit Card
+E00043,2025-02-05,Other,Education expense,2102.26,Expense,Credit Card
+E00092,2025-04-09,Health,Health expense,-450.0,Expense,UPI
+E00006,2025-01-24,Transport,Transport expense,564.85,Expense,Credit Card
+E00043,2025-02-05,Education,Education expense,2102.26,Expense,Credit Card
+E00092,2025-04-09,Health,Health expense,2370.97,Expense,UPI

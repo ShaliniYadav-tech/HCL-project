@@ -1,0 +1,3 @@
+transaction_id,date,category,description,amount,transaction_type,payment_method
+E00092,2025-04-09,Health,Health expense,-450.0,Expense,UPI
+E00121,2025-05-09,Entertainment,Entertainment expense,523.18,Transfer,Cash

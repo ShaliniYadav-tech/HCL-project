@@ -1,0 +1,13 @@
+{
+  "total_expenses": 1401867.73,
+  "average_monthly_expense": 58411.16,
+  "highest_spending_category": "Travel",
+  "highest_category_amount": 444970.18,
+  "budget_breach_count": 75,
+  "total_over_budget": 361252.9,
+  "transaction_count": 626,
+  "date_range": [
+    "2025-01-01",
+    "2026-12-27"
+  ]
+}
